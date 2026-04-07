@@ -57,4 +57,3 @@ go run cmd/server/main.go
 Alejandro Ruiz de Castilla
 - GitHub: [@alecruiz](https://github.com/alecruiz)
 - Email: alecrdec98@gmail.com
-EOF
